@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "54168051047",
+    "firebase_url": "https://itc327w-group-p-bookah-default-rtdb.firebaseio.com",
+    "project_id": "itc327w-group-p-bookah",
+    "storage_bucket": "itc327w-group-p-bookah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54168051047:android:15830221f7529cb09ae3c2",
+        "android_client_info": {
+          "package_name": "com.example.itc327w_bookah_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54168051047-vese9chu3topl5f38m09328tfuflrnbp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.itc327w_bookah_mobile",
+            "certificate_hash": "e14d343fe7d2566940cabb628a6390f7ed3dac45"
+          }
+        },
+        {
+          "client_id": "54168051047-ufhsvdc99d17m5v511suhtmgh8cuu444.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnG65xDx5KDD9p0A9ZBtbcQ9yBZaVlLlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54168051047-ufhsvdc99d17m5v511suhtmgh8cuu444.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
