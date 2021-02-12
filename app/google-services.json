@@ -8,17 +8,17 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:54168051047:android:15830221f7529cb09ae3c2",
+        "mobilesdk_app_id": "1:54168051047:android:f5c90c602d7a0a059ae3c2",
         "android_client_info": {
-          "package_name": "com.example.itc327w_bookah_mobile"
+          "package_name": "com.example.bookah"
         }
       },
       "oauth_client": [
         {
-          "client_id": "54168051047-vese9chu3topl5f38m09328tfuflrnbp.apps.googleusercontent.com",
+          "client_id": "54168051047-vt1k72c4n7cgc95eljtau1f7d6idbu7u.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.itc327w_bookah_mobile",
+            "package_name": "com.example.bookah",
             "certificate_hash": "e14d343fe7d2566940cabb628a6390f7ed3dac45"
           }
         },
