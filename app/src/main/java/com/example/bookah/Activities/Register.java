@@ -18,6 +18,7 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.example.bookah.Activities.SplashScreens.VerificationSplash;
 import com.example.bookah.AppUtilities.AppUtility;
 import com.example.bookah.Model.User;
 import com.example.bookah.R;
