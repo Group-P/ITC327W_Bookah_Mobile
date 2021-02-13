@@ -1,14 +1,16 @@
-package com.example.bookah;
+package com.example.bookah.Activities.SplashScreens;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity {
+import com.example.bookah.R;
+
+public class HelloSplash extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_hello_splash);
     }
 }
